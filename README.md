@@ -42,14 +42,13 @@ We welcome contributions from the community, including bug reports, feature requ
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-- Special thanks to `<institution/research group>` for providing the initial datasets.
 - Gratitude to all contributors and the open-source community.
 
 ## Contact
-For any inquiries, please reach out to `<contact information>`.
+For any inquiries, please reach out to `sk895@exeter.ac.uk`.
 
 ## Project Status
-This project is currently in `<development/production/maintenance>` phase. For the latest updates, please check the project's GitHub repository.
+This project is currently in `<development>` phase. For the latest updates, please check the project's GitHub repository.
 
 
 
