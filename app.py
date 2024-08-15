@@ -79,7 +79,7 @@ os.makedirs(app.config['OUTPUT_FOLDER'], exist_ok=True)
 # Load the trained generator model
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 generator = UNetGenerator().to(device)
-generator.load_state_dict(torch.load('model/unet_generator.pth', map_location=device))
+generator.load_state_dict(torch.load('model/generator.pth', map_location=device))
 generator.eval()
 
 # Define image transformation
