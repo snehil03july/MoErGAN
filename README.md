@@ -62,7 +62,7 @@ This Flask application allows you to upload a NIfTI (.nii or .nii.gz) image file
 
 - Python 3.x
 - pip (Python package installer)
-
+### The training codes are available in the Training.ipynb jupyter notebook.
 ## Installation
 
 1. **Clone the Repository and Navigate to the Project Directory**
