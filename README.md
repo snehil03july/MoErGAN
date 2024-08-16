@@ -51,7 +51,7 @@ Follow these steps to run MoErGAN for generating motion-corrupted MRI images:
 1. Prepare your dataset according to the instructions in `<path/to/data_preparation_instructions.md>`.
 2. Train the MoErGAN model with your dataset: python train.py --dataset <path/to/your/dataset>
 3. Generate motion-corrupted MRI images: python generate.py --model <path/to/trained/model> --output <path/to/output/images>
-
+### The training codes are available in the Training.ipynb jupyter notebook.
 # Flask GAN App
 
 This Flask application allows you to upload a NIfTI (.nii or .nii.gz) image file, processes it using a pre-trained U-Net GAN model, and then displays the generated output image.
@@ -62,7 +62,7 @@ This Flask application allows you to upload a NIfTI (.nii or .nii.gz) image file
 
 - Python 3.x
 - pip (Python package installer)
-### The training codes are available in the Training.ipynb jupyter notebook.
+
 ## Installation
 
 1. **Clone the Repository and Navigate to the Project Directory**
