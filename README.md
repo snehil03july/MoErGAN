@@ -13,6 +13,27 @@ MoErGAN is an innovative solution designed to address the scarcity of motion-cor
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+## M-Art Dataset
+
+The M-Art (Motion-Artifacts) dataset is a collection of MRI scans specifically curated to study and mitigate the effects of motion artifacts in brain imaging. This dataset includes MRI scans captured under varying conditions of head motion: no motion, slight motion, and extreme motion.
+
+### Dataset Access
+
+The M-Art dataset can be accessed and downloaded from the following sources:
+
+- **OpenNeuro**: The dataset is publicly available on OpenNeuro at [M-Art Dataset on OpenNeuro](https://openneuro.org/datasets/ds004173/versions/1.0.2).
+  
+- **University of Exeter OneDrive**: For members of the University of Exeter, the dataset is also available via OneDrive. Please use your university email ID to access the dataset: [M-Art Dataset on OneDrive](https://universityofexeteruk-my.sharepoint.com/:f:/g/personal/sk895_exeter_ac_uk/EiAEft9oryhAhJXbj6lJJGsBD_HwZK5J7WF0QcxLlNwOfg?e=4zsWv3).
+
+### Data Contents
+
+The dataset includes the following:
+
+- **No Motion**: MRI scans captured with no intentional head motion.
+- **Slight Motion**: MRI scans captured with slight, controlled head motion.
+- **Extreme Motion**: MRI scans captured with significant head motion.
+
+This dataset is ideal for research in motion artifact correction, training machine learning models, and enhancing the quality of MRI images.
 
 ### Prerequisites
 - Python 3.8+
